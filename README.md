@@ -1,7 +1,7 @@
 # 🌲 Welcome to my GitHub 🌲
 
 <div align="center">
-	<img src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gifv" alt="david-bowie-saying-ladies-and-gentlemen"/>
+	<img src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gif" alt="david-bowie-saying-ladies-and-gentlemen"/>
 	<img src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" alt="david-bowie-saying-and-others"/>
 </div><br>
 
