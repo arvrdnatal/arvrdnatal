@@ -1,14 +1,14 @@
 # 🌲 Welcome to my GitHub 🌲
 
 <div align="center">
-	<img src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gif" alt="david-bowie-saying-ladies-and-gentlemen"/>
-	<img src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" alt="david-bowie-saying-and-others"/>
+	<img width="49%" src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gif" alt="david-bowie-saying-ladies-and-gentlemen"/>
+	<img width="49%" src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" alt="david-bowie-saying-and-others"/>
 </div><br>
 
 <div>
 	<ul>
-		<li>🌵 Working in ME Soluções with <b><i>php</i></b></li>
-		<li>🌱 Learning <b><i>dart</i></b> and starting with <b><i>react</i></b></li>
+		<li>🌵 Working in <b><i>BUYK</i></b> with <b><i>flutter</i></b></li>
+		<li>🌱 Learning <b><i>dart</i></b> and starting with <b><i>react js</i></b></li>
 		<li>🍃 My e-mail: julia.conip@gmail.com</li>
 		<li>🌻 My pronouns: she/they</li>
 		<li>🌴 My instagram: arvrdnatal</li>
