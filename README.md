@@ -8,7 +8,7 @@
 <div>
 	<ul>
 		<li>🌵 Working in <b><i>BUYK</i></b> with <b><i>flutter</i></b></li>
-		<li>🌱 Learning <b><i>dart</i></b> and starting with <b><i>react js</i></b></li>
+		<li>🌱 Learning <b><i>dart</i></b> and starting with <b><i>java</i></b> for mobile</li>
 		<li>🍃 My e-mail: julia.conip@gmail.com</li>
 		<li>🌻 My pronouns: she/they</li>
 		<li>🌴 My instagram: arvrdnatal</li>
