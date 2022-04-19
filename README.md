@@ -12,11 +12,13 @@
 		<li>🍃 My e-mail: julia.conip@gmail.com</li>
 		<li>🌻 My pronouns: she/they</li>
 		<li>🌴 My instagram: arvrdnatal</li>
+		<li>🍀 My LinkedIn: <a href='https://www.linkedin.com/in/conifera/'>click here :)</a></li>
 	</ul>
 </div>
 
 <div align="center">
-	<a href='https://github.com/arvrdnatal'>
-	<div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/></div>
-	<div><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=compact&langs_count=7&theme=merko"/></div>
+	<a href='https://github.com/arvrdnatal' style="text-decoration:none;">
+		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=compact&langs_count=7&theme=merko"/>
+	</a>
 </div>
