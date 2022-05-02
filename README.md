@@ -18,8 +18,8 @@
 
 <div align="center">
 	<a>
-		<a href='https://github.com/arvrdnatal'><img height="150em" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/></a>
-		<a href='https://github.com/arvrdnatal'><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=default&langs_count=7&theme=gruvbox"/></a>
+		<a href='https://github.com/arvrdnatal'><img height="150em" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true"/></a>
+		<a href='https://github.com/arvrdnatal'><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=compact&langs_count=7&theme=ocean_dark&hide_border=true"/></a>
 	</a>
 </div>
 
