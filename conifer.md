@@ -47,7 +47,7 @@
 <div>
 	<img align="right" width="50%" src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" alt="michael-saying-its-britney-bitch"/>
 	<h2 align="center">✨ my taste in music ✨</h2>
-	<img src="https://spotify-recently-played-readme.vercel.app/api?user=winterconifera&count=3&width=475"/>
+	<a href="https://open.spotify.com/user/winterconifera"><img src="https://spotify-recently-played-readme.vercel.app/api?user=winterconifera&count=3&width=475"/></a>
 </div><br>
 
 <div>
