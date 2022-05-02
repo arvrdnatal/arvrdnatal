@@ -17,12 +17,12 @@
 </div>
 
 <div align="center">
-	<a href='https://github.com/arvrdnatal' style="text-decoration:none;color: transparent;">
-		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=default&langs_count=7&theme=gruvbox"/>
+	<a>
+		<a href='https://github.com/arvrdnatal'><img height="150em" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/></a>
+		<a href='https://github.com/arvrdnatal'><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=default&langs_count=7&theme=gruvbox"/></a>
 	</a>
 </div>
 
 <div align="center">
-	<img width="100%" src="https://github.com/arvrdnatal/arvrdnatal/blob/output/github-contribution-grid-snake.svg" alt="my-commits"/>
+	<a href='https://github.com/arvrdnatal'><img width="100%" src="https://github.com/arvrdnatal/arvrdnatal/blob/output/github-contribution-grid-snake.svg" alt="my-commits"/></a>
 </div><br>
