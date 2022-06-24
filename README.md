@@ -11,7 +11,7 @@
 
 <div>
 	<h2 align="left">✨ places where you can find me and my skills ✨</h2>
-	<img align="left" width="38%" src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" title="david-bowie-saying-and-others"/>
+	<img align="left" width="40%" src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" title="david-bowie-saying-and-others"/>
 	<div align="center">
 		<h4 align="center">social media:</h4>
 		<a href=""><img src="https://img.icons8.com/bubbles/50/000000/discord.png" title="discord"/></a>
