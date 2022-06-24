@@ -1,6 +1,6 @@
 <div>
 	<h2 align="center">✨ hello dear stranger, welcome to my github ✨</h2>
-	<img align="right" width="35%" src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gif" title="david-bowie-saying-ladies-and-gentlemen"/>
+	<img align="right" width="38%" src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gif" title="david-bowie-saying-ladies-and-gentlemen"/>
 	<h3>here some fun facts about me:</h3>
 	<li>🌲 my name is júlia, but you can call me conifer</li>
 	<li>🌵 i am 20 years old, brazilian and working as android developer junior</li>
@@ -11,7 +11,7 @@
 
 <div>
 	<h2 align="left">✨ places where you can find me and my skills ✨</h2>
-	<img align="left" width="35%" src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" title="david-bowie-saying-and-others"/>
+	<img align="left" width="38%" src="https://i.pinimg.com/originals/63/3e/7b/633e7b16bc0349db1e671ef68e989d65.gif" title="david-bowie-saying-and-others"/>
 	<div align="center">
 		<h4 align="center">social media:</h4>
 		<a href=""><img width="4%" src="https://img.icons8.com/bubbles/50/000000/discord.png" title="discord"/></a>
