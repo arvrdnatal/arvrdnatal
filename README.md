@@ -4,13 +4,10 @@
 	<h3>here some facts about me:</h3>
 	<li>🌲 my name is júlia, but you can call me conifer</li>
 	<li>🌵 i am 20 years old, brazilian and working as android developer junior</li>
-	<li>🌻 my pronouns are <code>she/her</code> and <code>they/them</code></li>
 	<li>🌱 right now, i'm learning to program in <code>react js</code></li>
-	<li>
-		🌴 i already have made an entire app in <code>flutter</code> but, the app was for final work in college, and i want to remake it one day
-		<ul><li>but if you want to see it anyway, here's the link in my <a href="https://github.com/couniflower/buyk_app">old account</a></li></ul>
-	</li>
-
+	<li>🌴 i already have made an entire app in <code>flutter</code> but, the app was for final work in college, and i want to remake it one day</li>
+	<li>🌻 but if you want to see it anyway, here's the link in my <a href="https://github.com/couniflower/buyk_app">old account</a></li>
+	</br>
 </div>
 
 <div>
