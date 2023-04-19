@@ -3,7 +3,7 @@
 	<img align="right" width="42%" src="https://64.media.tumblr.com/4a4a42aad5b95327ede0562bf9d48afe/tumblr_o2mbw0Abxp1ruz2ajo1_400.gif" title="david-bowie-saying-ladies-and-gentlemen"/></br>
 	<h3>here some facts about me:</h3>
 	<li>🌲 my name is júlia, but you can call me conifer</li>
-	<li>🌵 i am 20 years old, brazilian and working as android developer junior</li>
+	<li>🌵 i am 21 years old, brazilian and working as android developer junior</li>
 	<li>🌱 right now, i'm learning to program in <code>react js</code></li>
 	<li>🌴 i already have made an entire app in <code>flutter</code> but, the app was for final work in college, and i want to remake it one day</li>
 	<li>🌻 but if you want to see it anyway, here's the link in my <a href="https://github.com/couniflower/buyk_app">old account</a></li>
