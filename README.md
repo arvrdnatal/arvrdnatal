@@ -21,6 +21,6 @@
 
 <div>
 	<h3 align="center">✨ my latest taste in music ✨</h3>
-	<img align="right" width="63%" src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" title="michael-saying-its-britney-bitch"/>
+	<img align="right" width="60%" src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" title="michael-saying-its-britney-bitch"/>
 	<a href="https://open.spotify.com/user/winterconifera"><img width="35%" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=winterconifera&count=5&width=300"/></a>
 </div>
