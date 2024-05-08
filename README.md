@@ -3,7 +3,7 @@
 	<img align="right" width="42%" src="https://i.giphy.com/z3bHn82ShVnLab6tyY.webp" title="deadpool-is-here"/>
 	<h3>here some personal facts about me:</h3>
 	<li>🌲 my name is júlia, but you can call me conifer</li>
-	<li>🌵 i am 21 years old, brazilian and working as android developer junior</li>
+	<li>🌵 i am 22 years old, brazilian and working as android developer junior</li>
 	<li>🌱 right now, i'm learning to program in <code>react js</code></li>
 	<li>🌴 i already have made an entire app in <code>flutter</code> but, the app was for final work in college, and i want to remake it one day</li>
 	<li>🌻 but if you want to see it anyway, here's the link in my <a href="https://github.com/couniflower/buyk_app">old account</a></li>
