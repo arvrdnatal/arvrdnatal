@@ -22,7 +22,7 @@
 
 ### information about my coding:
 
-<a href="https://open.spotify.com/user/winterconifera">
+<a href="https://github.com/arvrdnatal">
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
 </a>
 
@@ -32,7 +32,9 @@
 
 ### most used languages:
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=compact&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
+<a href="https://github.com/arvrdnatal">
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=donut&count_private=truee&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag"/>
+</a>
 
 ***
 
