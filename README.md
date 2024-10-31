@@ -1,26 +1,43 @@
-<h1 align="center">✨ hello my github friend, is so nice to see you ✨</h1>
-<div>
-	<img align="right" width="42%" src="https://i.giphy.com/z3bHn82ShVnLab6tyY.webp" title="deadpool-is-here"/>
-	<h3>here some personal facts about me:</h3>
-	<li>🌲 my name is júlia, but you can call me conifer</li>
-	<li>🌵 i am 22 years old, brazilian and working as android developer junior</li>
-	<li>🌱 right now, i'm learning to program in <code>react js</code></li>
-	<li>🌴 i already have made an entire app in <code>flutter</code> but, the app was for final work in college, and i want to remake it one day</li>
-	<li>🌻 but if you want to see it anyway, here's the link in my <a href="https://github.com/couniflower/buyk_app">old account</a></li>
-</div><br>
+### ✨ hello my github friend, is so nice to see you ✨
 
-#
+***
 
-<div>
-	<h3 align="center">✨ my mostly used languages ✨</h3>
-	<a href='https://github.com/arvrdnatal'><img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&langs_count=7&theme=transparent&hide_title=true&hide_border=false"/></a>
-	<img align="left" width="60%" src="https://media2.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?cid=ecf05e47ccp29mc91l8lptckko1zr2q5rjs8bukcwttcr1g2&rid=giphy.gif" title="hacking-everything"/>
-</div><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img width="75%" src="https://i.giphy.com/z3bHn82ShVnLab6tyY.webp" align="left"/>
 
-#
+### let me introduce myself:
 
-<div>
-	<h3 align="center">✨ my latest taste in music ✨</h3>
-	<img align="right" width="60%" src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" title="michael-saying-its-britney-bitch"/>
-	<a href="https://open.spotify.com/user/winterconifera"><img width="35%" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=winterconifera&count=5&width=300"/></a>
-</div>
+🌲 my name is Júlia, but you can call me Conifer
+
+🌵 i'm 22 years old and brazilian
+
+🌱 i'm an android developer, but dreaming in become an animator
+
+🌴 i have an entire app in `flutter`, but it's not the way i'd like to because it is incomplete and obsolete
+
+🌻 if you want to see anyway, here's the link in my [old account](https://github.com/couniflower/buyk_app)
+
+***
+
+<img width="45%" src="https://media2.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?cid=ecf05e47ccp29mc91l8lptckko1zr2q5rjs8bukcwttcr1g2&rid=giphy.gif" align="right"/>
+
+### information about my coding:
+
+<a href="https://open.spotify.com/user/winterconifera">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
+</a>
+
+***
+
+<img width="50%" src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif?cid=790b7611wl0ineu67642sud6z0gwr35tl3n0v6533dbup58i&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
+
+### most used languages:
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=compact&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
+
+***
+
+<img width="65%" src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" align="right"/>
+
+### my latest taste in music:
+
+<a href="https://open.spotify.com/user/winterconifera"><img width="30%" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=winterconifera&count=9&width=500"/></a>
