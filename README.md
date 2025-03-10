@@ -23,7 +23,7 @@
 ### information about my coding:
 
 <a href="https://github.com/arvrdnatal">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
 </a>
 
 ***
