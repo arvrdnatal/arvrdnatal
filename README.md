@@ -8,7 +8,7 @@
 
 🌲 my name is Júlia, but you can call me Conifer
 
-🌵 i'm 22 years old and brazilian
+🌵 i'm 23 years old and brazilian
 
 🌱 i'm an android developer, but dreaming in become an animator
 
