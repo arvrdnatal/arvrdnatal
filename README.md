@@ -2,7 +2,7 @@
 
 ***
 
-<img width="75%" src="https://i.giphy.com/z3bHn82ShVnLab6tyY.webp" align="left"/>
+<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqdjJqZHp3eGUwYzBoMmpmNHg0cDdxcWV3eHdoOTFjNGdtYmZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iggT536JzcWrfoAfxi/giphy.gif" />
 
 ### let me introduce myself:
 
