@@ -8,9 +8,9 @@
 
 🌲 my name is Júlia, but you can call me Conifer
 
-🌵 i'm 23 years old and brazilian
+🌵 i'm brazilian
 
-🌱 i'm an android developer, but dreaming in become an animator
+🌱 i'm an android developer, but dreaming in become an animator (one day)
 
 🌴 i have an entire app in `flutter`, but it's not the way i'd like to because it is incomplete and obsolete
 
