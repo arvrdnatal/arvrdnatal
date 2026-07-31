@@ -16,8 +16,6 @@ My main playground is native Android development, while Flutter is helping me ex
 
 <sub><i>You shall not pass... without taking a look around first!</i></sub>
 
-<br>
-
 ## 🧙‍♂️ The Developer Behind the Journey 🧙‍♂️
 
 ⚔️ Android developer specialized in **Kotlin** and **Jetpack Compose**<br>
@@ -31,8 +29,6 @@ My main playground is native Android development, while Flutter is helping me ex
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZnNTF2ODg3cmxqZ2F1ZWtyeWFpeXJ4OWQwdXRrbWM0MHJ5ODh4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Xu2IkvLsjyLe/giphy.gif"
   alt="The Fellowship standing together for Frodo"
 />
-
-<br>
 
 ## 💍 The Tools of the Fellowship 💍
 
@@ -57,8 +53,6 @@ My main playground is native Android development, while Flutter is helping me ex
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnEwZnBnNm42cnVpbWk5b2Ficzh1d3dkNzVhOXhpNmhkZWUzYXZpbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7GDY7UBlW5ha6oF9c/giphy.gif"
   alt="The One Ring"
 />
-
-<br>
 
 ## 📜 The Tale of Years 📜
 
