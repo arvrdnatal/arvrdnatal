@@ -1,45 +1,94 @@
-### ✨ hello my github friend, is so nice to see you ✨
+<div align="center">
 
-***
+# ✨ Hello, my GitHub friend! ✨
 
-<img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNqdjJqZHp3eGUwYzBoMmpmNHg0cDdxcWV3eHdoOTFjNGdtYmZ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iggT536JzcWrfoAfxi/giphy.gif" />
+### 🌲 I'm Júlia, but you can call me Conifer! 🌲
 
-### let me introduce myself:
+I am an Android developer from Brazil who loves building useful things and bringing new ideas to life.
 
-🌲 my name is Júlia, but you can call me Conifer
+My main playground is native Android development, while Flutter is helping me explore new journeys across mobile and web.
 
-🌵 i'm brazilian
+<img
+  width="75%"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTc3ZDYyd2E5eXFhODBlNXpwNWRvY2ZkMHNvdng5dXhrYjBqNm1kaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/njYrp176NQsHS/giphy.gif"
+  alt="Gandalf saying You shall not pass"
+/>
 
-🌱 i'm an android developer, but dreaming in become an animator (one day)
+<sub><i>You shall not pass... without taking a look around first!</i></sub>
 
-🌴 i have an entire app in `flutter`, but it's not the way i'd like to because it is incomplete and obsolete
+<br>
 
-🌻 if you want to see anyway, here's the link in my [old account](https://github.com/couniflower/buyk_app)
+## 🧙‍♂️ The Developer Behind the Journey 🧙‍♂️
 
-***
+⚔️ Android developer specialized in **Kotlin** and **Jetpack Compose**<br>
+👑 Former Android technical lead<br>
+🪄 Experienced with payments, ticketing and hardware integrations<br>
+🗺️ Worked on applications used across different countries<br>
+🏹 Currently exploring **Flutter** for mobile and web<br>
 
-<img width="45%" src="https://media2.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif?cid=ecf05e47ccp29mc91l8lptckko1zr2q5rjs8bukcwttcr1g2&rid=giphy.gif" align="right"/>
+<img
+  width="75%"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZnNTF2ODg3cmxqZ2F1ZWtyeWFpeXJ4OWQwdXRrbWM0MHJ5ODh4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Xu2IkvLsjyLe/giphy.gif"
+  alt="The Fellowship standing together for Frodo"
+/>
 
-### information about my coding:
+<br>
+
+## 💍 The Tools of the Fellowship 💍
+
+### Languages
+
+`Kotlin` · `Java` · `Dart`
+
+### Mobile Development
+
+`Android` · `Jetpack Compose` · `Flutter`
+
+### Architecture & Libraries
+
+`MVVM` · `Clean Architecture` · `Hilt` · `Room` · `Retrofit`
+
+### Tools & Services
+
+`Git` · `GitHub` · `Android Studio` · `Firebase` · `SQLite`
+
+<img
+  width="75%"
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MnEwZnBnNm42cnVpbWk5b2Ficzh1d3dkNzVhOXhpNmhkZWUzYXZpbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t7GDY7UBlW5ha6oF9c/giphy.gif"
+  alt="The One Ring"
+/>
+
+<br>
+
+## 📜 The Tale of Years 📜
+
+<sub><i>A record of contributions made along the journey.</i></sub>
 
 <a href="https://github.com/arvrdnatal">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=arvrdnatal&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light"/>
+  <img
+    width="75%"
+    src="https://ghchart.rshah.org/52734D/arvrdnatal"
+    alt="Júlia's GitHub contribution chart"
+  />
 </a>
 
-***
-
-<img width="50%" src="https://media.giphy.com/media/LcfBYS8BKhCvK/giphy.gif?cid=790b7611wl0ineu67642sud6z0gwr35tl3n0v6533dbup58i&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
-
-### most used languages:
+<br>
 
 <a href="https://github.com/arvrdnatal">
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvrdnatal&layout=donut&count_private=truee&include_all_commits=true&hide_rank=true&hide_title=true&hide_border=true&show_icons=true&theme=solarized-light&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag"/>
+  <img
+    width="75%"
+    src="https://ghstats.dev/api/langs?username=arvrdnatal&theme=forest&layout=horizontal_list"
+    alt="Júlia's most used languages"
+  />
 </a>
 
-***
+## 🦅 Send a Message to Middle-earth 🦅
 
-<img width="65%" src="https://c.tenor.com/p9pPNUHetWIAAAAd/steve-carell-its-britney-bitch.gif" align="right"/>
+Want to talk about Android, Flutter or new ideas? You can find me here:
 
-### my latest taste in music:
+<a href="https://www.linkedin.com/in/conifera"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHRleHQgeD0iMiIgeT0iMTkiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMTkiIGZvbnQtd2VpZ2h0PSJib2xkIj5pbjwvdGV4dD48L3N2Zz4%3D" alt="LinkedIn"></a>
+<a href="mailto:julia.conip@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-<a href="https://open.spotify.com/user/winterconifera"><img width="30%" align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=winterconifera&count=9&width=500"/></a>
+<sub><i>One does not simply walk into Mordor...</i></sub>
+
+</div>
