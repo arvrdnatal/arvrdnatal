@@ -18,7 +18,7 @@ My main playground is native Android development, while Flutter is helping me ex
 
 ## 🧙‍♂️ The Developer Behind the Journey 🧙‍♂️
 
-⚔️ Android developer specialized in **Kotlin** and **Jetpack Compose**<br>
+⚔️ Android Software Engineer specialized in **Kotlin** and **Jetpack Compose**<br>
 👑 Former Android technical lead<br>
 🪄 Experienced with payments, ticketing and hardware integrations<br>
 🗺️ Worked on applications used across different countries<br>
